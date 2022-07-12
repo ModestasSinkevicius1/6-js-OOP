@@ -1,0 +1,5 @@
+class Dog{
+
+}
+
+export { Dog };
